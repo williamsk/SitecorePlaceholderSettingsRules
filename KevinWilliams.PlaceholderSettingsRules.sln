@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KevinWilliams.PlaceholderSettingsRules", "KevinWilliams.PlaceholderSettingsRules.csproj", "{3BC78AF5-2D42-424F-B2A4-D32E9149E82D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dependencies", "Dependencies", "{B3444C72-1D1A-4495-98D8-CF20822E0406}"
+	ProjectSection(SolutionItems) = preProject
+		..\Dependencies\Sitecore.Kernel.dll = ..\Dependencies\Sitecore.Kernel.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BC78AF5-2D42-424F-B2A4-D32E9149E82D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BC78AF5-2D42-424F-B2A4-D32E9149E82D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BC78AF5-2D42-424F-B2A4-D32E9149E82D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BC78AF5-2D42-424F-B2A4-D32E9149E82D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
